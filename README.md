@@ -1,0 +1,2 @@
+# NLP-resume-project
+This project is a Next Word Predictor that uses Natural Language Processing to suggest the most likely word following a given text input. It works similarly to predictive text in messaging applications and can be trained on various datasets to improve accuracy. Built with Python and libraries like NLTK or TensorFlow, the predictor is easy to run locally and can be extended for multiple languages, deep learning integration, or deployment in real-world applications.
